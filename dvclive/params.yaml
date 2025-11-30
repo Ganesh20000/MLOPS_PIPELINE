@@ -1,9 +1,9 @@
 feature_engineering:
-  max_features: 100
+  max_features: 500
 data_ingestion:
   test_size: 0.2
 model_building:
-  n_estimators: 100
-  random_state: 42
-  max_depth: 10
-  max_samples: 0.8
+  n_estimators: 154
+  random_state: 4
+  max_depth: 20
+  max_samples: 0.533413168235625
